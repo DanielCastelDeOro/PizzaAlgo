@@ -6,4 +6,4 @@
 4B. Pay at door
 5. Wait
 6. Greet the driver
-7. See step 4B if nessary
+7. See step 4B if necessary
